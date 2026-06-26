@@ -59,8 +59,25 @@
 # print("My department is:",department)
 
 
-#if and else
+#        if and else
 
-if(true):
-    print("yess")
-else
+# if(True):
+#     print("yess")
+# else:
+#     print("noo")
+
+#print("win"=="win")  This is true
+#print("win"=="winn") This is false
+
+# csk="win"
+# if(csk=="win"):
+#     print("Thala ku ethu 5th cup")
+# else:
+#     print("This time no cup")    
+
+# meghna=input("died or alive?")
+# if(meghna=="died"):
+#     print("Surya meets priya")
+# else:
+#     print("Surya weds meghna")
+
