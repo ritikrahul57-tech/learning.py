@@ -26,10 +26,12 @@
 # else:
 #     print("It is odd number")
 
-mark=int(input("Enter your mark:"))
-if(mark<35):
-    print("Bad student")
-if(mark>35 and mark<70):
-    print("Average student")
-if(mark>70):
-    print("Good student")
+# mark=int(input("Enter your mark:"))
+# if(mark<35):
+#     print("Bad student")
+# elif(mark>35 and mark<70):
+#     print("Average student")
+# if(mark>70):
+#     print("Good student")
+
+
