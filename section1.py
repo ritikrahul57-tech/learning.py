@@ -70,3 +70,4 @@ if(salary>=20000 or age<=25):
     loan=input("Enter the loan amount you want:")
     print("You are eligble for loan")
 else:
+    print("You are not eligble")
