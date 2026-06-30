@@ -64,10 +64,27 @@
 #     print("You are not eligible")
 
 
-salary=int(input("Enter your salary:"))
-age=int(input("Enter your age:"))
-if(salary>=20000 or age<=25):
-    loan=input("Enter the loan amount you want:")
-    print("You are eligble for loan")
-else:
-    print("You are not eligble")
+# salary=int(input("Enter your salary:"))
+# age=int(input("Enter your age:"))
+# if(salary>=20000 or age<=25):
+    # loan=int(input("loan amount requried:"))
+    # if(loan>=50000):
+        # print("You will get requried loan")
+    # else:
+        # print("The minimum loan will be 50000")
+    # print("You are eligble for loan")
+# else:
+     # print("You are not eligble")
+
+
+# a=int(input("Enter the maths mark: "))
+# b=int(input('Enter the phyics mark:'))
+# c=int(input("Enter the chemistry mark;"))
+# d=int(input("Enter the tamil mark:"))
+# e=int(input("Enter the english mark:"))
+# f=(a+b+c+d+e)
+# g=(f/5)
+# if(g<35):
+#     print("Additional class is required")
+# else:
+#     print("You are good to go")
