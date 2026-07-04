@@ -40,8 +40,26 @@
 
 
 # a={}   this is set
-a={1,2,3,4,1}
-a.add(7)
-a.remove(1)
-a.pop()
-print(a)
+# a={1,2,3,4,1}
+# a.add(7)
+# a.remove(1)
+# a.pop()
+# print(a)
+
+
+# a={
+#     this is dictionary
+# }
+# a={
+#     "name":"key",
+#     "age":21,
+#     "location":"udumalpet",
+#     "std":["12th"]
+# }
+# a["age"]=45
+# a.update({"location":"chennai"})
+#a.pop("Age")
+# del a["std"]
+# a["colour"]="blue"
+# a.clear()
+# print(a)
