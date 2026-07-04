@@ -20,11 +20,28 @@
 
 
 
-#a[]     this is list
-a=[1,2,3,4,5]
-a.insert(1,99)
-a[1]=67
-a.pop(4)
-print(a)
-a.append(6)
+# #a[]     this is list
+# a=[1,2,3,4,5]
+# b=[7,8,9,10]
+# a.extend(b)
+# a.insert(1,99)
+# a[1]=67
+# a.pop(4)
+# print(a)
+# a.append(6)
+# print(a)
+
+
+# a=()    this is tuple
+# a=(1,2,3,4,5)
+# b=list(a)
+# b.pop(2)
+# print(b)
+
+
+# a={}   this is set
+a={1,2,3,4,1}
+a.add(7)
+a.remove(1)
+a.pop()
 print(a)
