@@ -106,12 +106,43 @@
 
 
 
-# def findevenorodd():
-#     num=int(input("Enter a number:"))
-#     if(num%2==0):
+# def findevenorodd(b):
+#     if(b%2==0):
 #         print("This number is even")
 #     else:
 #         print("This number is odd")
-# findevenorodd()
+# num=int(input("Enter a number:"))
+# findevenorodd(a)
 
 
+
+# def num(b):
+#     print(b)
+# a=67
+# num(a)
+
+
+
+
+# def findpassorfail(b):
+#     if(b<35):
+#         print("You are  fail in the subject")
+#     else:
+#         print("You are pass in the subject")
+# a=int(input("Enter the mark:"))
+# findpassorfail(a)
+
+
+
+# def numberrange():
+#     a=int(input("Enter the first number:"))
+#     b=int(input("Enter the second number:"))
+#     for i in range(a,b):
+#         print(i,end=",")
+# numberrange()
+
+
+def number(a,b):
+    for i in range(a,b):
+        print(i,end=",")
+number(6,11)
