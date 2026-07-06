@@ -65,3 +65,53 @@
 # print(a)
 
 
+#         function in python
+
+
+# def painter():
+#     print("painting")
+# painter()
+
+
+# def add():
+    # print("Addition")
+    # a=int(input("Enter the first number:"))
+    # b=int(input("Enter the second number:"))
+    # print("a+b")
+# add()
+# def sub():
+    # print("Substraction")
+    # a=int(input("Enter the first number:"))
+    # b=int(input("Enter the second number:"))
+    # print("a-b")
+# sub()
+# def mul():
+    # print("Multipulication")
+    # a=int(input("Enter the first number:"))
+    # b=int(input("Enter the second number:"))
+    # print(a*b)
+# mul()
+# def div():
+    # print("division")
+    # a=int(input("Enter the first number:"))
+    # b=int(input("Enter the second number:"))
+    # print(a/b)
+# div()
+
+
+
+# def painter(msg):
+#     print("Message:",msg)
+# painter("Can you paint my house")
+
+
+
+# def findevenorodd():
+#     num=int(input("Enter a number:"))
+#     if(num%2==0):
+#         print("This number is even")
+#     else:
+#         print("This number is odd")
+# findevenorodd()
+
+
