@@ -20,11 +20,35 @@
 # print(a)
 
 
-def add(n1,n2):
-    return n1+n2
-a=int(input("Enter the first number:"))
-b=int(input("Enter the second number:"))
-c=int(input("Enter the third number:"))
-d=add(a,b)
-output=d*c
-print(output)
+# def word(n1,n2):
+#     return n1+n2
+# a=int(input("a:"))
+# b=int(input("b:"))
+# c=int(input("c:"))
+# added=word(a,b)
+# output=added*c
+# print(output)
+
+
+
+#           class and object
+
+
+
+class goa:
+    name="new client"
+    drink=""
+    def party():
+        print("Lets party to night...")
+    def drinks():
+        print("do not drink ...")
+ritik=goa()
+rahul=goa()
+ritik.name="Ritik"
+print(ritik.name)
+ritik.drink="yes he will drink"
+print(ritik.drink)
+rahul.name="Rahul"
+rahul.drink="He will not able to drink"
+print(rahul.name)
+print(rahul.drink)
