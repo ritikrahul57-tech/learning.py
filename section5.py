@@ -31,24 +31,26 @@
 
 
 
-#           class and object
+# #           class and object
 
 
 
-class goa:
-    name="new client"
-    drink=""
-    def party():
-        print("Lets party to night...")
-    def drinks():
-        print("do not drink ...")
-ritik=goa()
-rahul=goa()
-ritik.name="Ritik"
-print(ritik.name)
-ritik.drink="yes he will drink"
-print(ritik.drink)
-rahul.name="Rahul"
-rahul.drink="He will not able to drink"
-print(rahul.name)
-print(rahul.drink)
+# class goa:
+#     name="new client"
+#     drink=""
+#     def party():
+#         print("Lets party to night...")
+#     def drinks():
+#         print("do not drink ...")
+# ritik=goa()
+# rahul=goa()
+# ritik.name="Ritik"
+# print(ritik.name)
+# ritik.drink="yes he will drink"
+# print(ritik.drink)
+# rahul.name="Rahul"
+# rahul.drink="He will not able to drink"
+# print(rahul.name)
+# print(rahul.drink)
+
+print("hollo")
