@@ -53,4 +53,3 @@
 # print(rahul.name)
 # print(rahul.drink)
 
-print("hollo")
