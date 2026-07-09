@@ -52,4 +52,63 @@
 # rahul.drink="He will not able to drink"
 # print(rahul.name)
 # print(rahul.drink)
+# ritik.party()
+# rahul.drinks()
+
+
+# class laptop:
+#     price=""
+#     processor=""
+#     ram=""
+#     def storage():
+#         print("The are many space to store")
+# HP=laptop()
+# DELL=laptop()
+# LENOVO=laptop()
+# HP.price=35000
+# HP.processor="i5"
+# HP.ram="8GB"
+# DELL.price=70000
+# DELL.processor="i6"
+# DELL.ram="7GB"
+# LENOVO.price=50000
+# LENOVO.processor="i7"
+# LENOVO.ram="9GB"
+# print(HP.price)
+# print(HP.processor)
+# print(HP.ram)
+# print(DELL.price)
+# print(DELL.processor)
+# print(DELL.ram)
+# print(LENOVO.price)
+# print(LENOVO.processor)
+# print(LENOVO.ram)
+
+
+
+#         construction and self keyword
+
+
+
+# class laptop:
+#     def __init__(self):
+#         self.ram=""
+#         self.processor=""
+#     def display(self):
+#         print("ram:",self.ram)
+#         print("Processor:",self.processor)
+# hp=laptop()
+# dell=laptop()
+# hp.ram="7gb"
+# hp.processor="i8"
+# dell.ram="8gb"
+# dell.processor="i9"
+# hp.display()
+# dell.display()
+
+
+# class laptop:
+#     pass
+
+
 
