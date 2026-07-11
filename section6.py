@@ -37,7 +37,3 @@
 # t1.display()
 # t2.display()
 
-
-print("no")
-if:
-    print("ooo yaa")
