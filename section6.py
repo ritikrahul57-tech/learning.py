@@ -39,3 +39,5 @@
 
 
 print("no")
+if:
+    print("ooo yaa")
