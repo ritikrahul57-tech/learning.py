@@ -37,3 +37,20 @@
 # t1.display()
 # t2.display()
 
+
+
+# class calculator:
+#     def __init__(self,a,b):
+#         self.num1=a
+#         self.num2=b
+#     def add(self):
+#         print("add:",self.num1+self.num2)  
+#     def sub(self):
+#         print("sub:",self.num1-self.num2)
+# a=int(input("Enter the number:"))
+# b=int(input("Enter the number:"))
+# obj1=calculator(a,b)
+# obj2=calculator(a,b)
+# obj1.add()
+# obj2.sub()
+
