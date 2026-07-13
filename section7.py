@@ -90,15 +90,15 @@
 # s1.money
 
 
-class dad():
-    def money(self):
-        print("Dad had a money")
-class land():
-    def important(self):
-        print("It is some important land")
-class son1(dad,land):
-    pass
-class son2(dad):
-    pass
-s1=son1()
-s1.money()
+# class dad():
+#     def money(self):
+#         print("Dad had a money")
+# class land():
+#     def important(self):
+#         print("It is some important land")
+# class son1(dad,land):
+#     pass
+# class son2(dad):
+#     pass
+# s1=son1()
+# s1.money()
