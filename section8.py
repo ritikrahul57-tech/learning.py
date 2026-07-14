@@ -26,6 +26,21 @@
 
 
 
-def add():
-    print("add")
-add()
+# def add(a,b,c=0):
+#     print(a+b+c)
+# add(1,4)
+# add(1,2,3)
+
+
+
+class animal():
+    def sound(self):
+        print("animal will make sound")
+class dog(animal):
+    def sound(self):
+        print("Dog barks")
+class bird(animal):
+    def sound(self):
+        print("Bird will sing")
+b1=bird()
+b1.sound()
