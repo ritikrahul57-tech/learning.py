@@ -33,14 +33,65 @@
 
 
 
-class animal():
-    def sound(self):
-        print("animal will make sound")
-class dog(animal):
-    def sound(self):
-        print("Dog barks")
-class bird(animal):
-    def sound(self):
-        print("Bird will sing")
-b1=bird()
-b1.sound()
+# class animal():
+#     def sound(self):
+#         print("animal will make sound")
+# class dog(animal):
+#     def sound(self):
+#         print("Dog barks")
+# class bird(animal):
+#     def sound(self):
+#         print("Bird will sing")
+# b1=bird()
+# b1.sound()
+
+
+# class shape():
+#     def area(self):
+#         return 0
+# class rectangle(shape):
+#     def area(self):
+#         l=int(input("Enter a number"))
+#         b=int(input("Enter a number"))
+#         print(l*b)
+# r1=rectangle()
+# r1.area()
+
+
+# class person():
+#     def __init__(self,name):
+#         self.name=name
+# class student(person):
+#     def __init__(self, name,grade):
+#         super().__init__(name)
+#         self.grade=grade
+#     def display(self):
+#         print(self.name,self.grade)
+# s1=student("rahul","A")
+# s1.dispaly()
+
+
+# class vehile():
+#     def start(self):
+#         print("vechile started")
+# class car(vehile):
+#     def start(self):
+#         print("car started")
+# c1=car()
+# c1.start()
+
+
+class employee():
+    def __init__(self,name,salary):
+        self.name=name
+        self.salary=salary
+class manger(employee):
+    def __init__(self,name,salary,department):
+        super().__init__(name,salary)
+        self.department=department
+    def display(self):
+        print(self.name,self.salary,self.department)
+m1=manger("rahul","150000","ece")
+m1.display()
+
+        
